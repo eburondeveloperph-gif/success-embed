@@ -1,0 +1,9 @@
+{
+  "name": "Eburon Success Embed",
+  "description": "Embedded interface for success.eburon.ai",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
